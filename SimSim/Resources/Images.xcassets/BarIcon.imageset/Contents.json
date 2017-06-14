@@ -2,12 +2,12 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "switchIcon.png",
+      "filename" : "SPStatusItemIcon-10.10.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "switchIcon@2x.png",
+      "filename" : "SPStatusItemIcon-10.10@2x.png",
       "scale" : "2x"
     },
     {
